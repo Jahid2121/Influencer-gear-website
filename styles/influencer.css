@@ -90,3 +90,7 @@ nav li a{
         flex-direction: column;
     }
 }
+/* main related styles */
+.icons{
+    margin-top: 100px;
+}
